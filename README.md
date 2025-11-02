@@ -31,24 +31,6 @@ reflection_agent/
 ├── main.py              # Entry point & CLI
 └── README.md            # This file
 ```
-
----
-
-## 🎯 Why This Structure?
-
-### Single Responsibility Principle
-Each file has ONE job:
-- **config.py** = Settings only
-- **models.py** = Data structures only
-- **prompts.py** = Prompt templates only
-- etc.
-
-### Benefits
-✅ **Easy to understand** - Read one file at a time
-✅ **Easy to modify** - Change prompts without touching logic
-✅ **Easy to test** - Test each module independently
-✅ **Easy to extend** - Add new tools or nodes easily
-
 ---
 
 ## 📄 File Explanations

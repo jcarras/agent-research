@@ -273,7 +273,7 @@ if __name__ == "__main__":
     - "What are the best practices for React performance optimization?"
     """
 
-    question = "What are the health benefits of intermittent fasting?"
+    question = input("What would you like to research? ")
 
 
     # ========================================================================
