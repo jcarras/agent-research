@@ -4,6 +4,8 @@ A production-ready Reflection Agent the provides research on a topic by critiqui
 
 ## 🚀 Quick Start
 
+Install Python 3 if needed.
+
 ```bash
 # 1. Install dependencies
 pip3 install -r requirements.txt
