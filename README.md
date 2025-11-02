@@ -1,4 +1,4 @@
-# Research Agent - Modular Structure
+# Extendable Research Agent
 
 A production-ready Reflection Agent the provides research on a topic by critiquing responses to understand what additional questions need to be asked to answer query. It then does web searches to answer unknown questions.
 
